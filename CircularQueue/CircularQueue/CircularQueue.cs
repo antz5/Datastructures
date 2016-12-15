@@ -2,6 +2,13 @@
 
 namespace CircularQueue
 {
+    /*
+        [X] create a method Enqueue to insert an item into the Queue 
+        [X] create a method Dequeue to delete an item from the Queue
+        [X] create a method IsEmpty to check if the queue is empty
+        [X] create a method IsFull to check if the queue is full
+        [X] create a property Count to get the number of elements in the queue
+    */
     public class CircularQueue
     {
         int front;
