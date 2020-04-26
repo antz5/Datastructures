@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteANodeSinglyLinkedList
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintInReverseSinglyLinkedList", "PrintInReverseSinglyLinkedList\PrintInReverseSinglyLinkedList.csproj", "{C920AD0A-B17D-4F71-A650-39B9A13697C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseLinkedList", "ReverseLinkedList\ReverseLinkedList.csproj", "{FF8E554F-7AB1-4075-8566-D38BED2074AC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -100,5 +102,17 @@ Global
 		{C920AD0A-B17D-4F71-A650-39B9A13697C9}.Release|x64.Build.0 = Release|Any CPU
 		{C920AD0A-B17D-4F71-A650-39B9A13697C9}.Release|x86.ActiveCfg = Release|Any CPU
 		{C920AD0A-B17D-4F71-A650-39B9A13697C9}.Release|x86.Build.0 = Release|Any CPU
+		{FF8E554F-7AB1-4075-8566-D38BED2074AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF8E554F-7AB1-4075-8566-D38BED2074AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF8E554F-7AB1-4075-8566-D38BED2074AC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{FF8E554F-7AB1-4075-8566-D38BED2074AC}.Debug|x64.Build.0 = Debug|Any CPU
+		{FF8E554F-7AB1-4075-8566-D38BED2074AC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FF8E554F-7AB1-4075-8566-D38BED2074AC}.Debug|x86.Build.0 = Debug|Any CPU
+		{FF8E554F-7AB1-4075-8566-D38BED2074AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF8E554F-7AB1-4075-8566-D38BED2074AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF8E554F-7AB1-4075-8566-D38BED2074AC}.Release|x64.ActiveCfg = Release|Any CPU
+		{FF8E554F-7AB1-4075-8566-D38BED2074AC}.Release|x64.Build.0 = Release|Any CPU
+		{FF8E554F-7AB1-4075-8566-D38BED2074AC}.Release|x86.ActiveCfg = Release|Any CPU
+		{FF8E554F-7AB1-4075-8566-D38BED2074AC}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
